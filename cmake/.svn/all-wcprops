@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/tips/!svn/ver/221/branches/tips_build/cmake
+END
+FindCFITSIO.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindCFITSIO.cmake
+END
+CheckCCompilerFlag.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/CheckCCompilerFlag.cmake
+END
+UseSWIG2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/UseSWIG2.cmake
+END
+FindNUMPY.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindNUMPY.cmake
+END
+FindDoxygen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindDoxygen.cmake
+END
+FindPython.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindPython.cmake
+END
+FindWCSLIB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindWCSLIB.cmake
+END
+FindGSL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindGSL.cmake
+END
+FindBoost.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindBoost.cmake
+END
+CheckCXXSourceRuns.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/CheckCXXSourceRuns.cmake
+END
+UseLATEX.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/UseLATEX.cmake
+END
+FindCairo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindCairo.cmake
+END
+FindWCSLIB1.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/tips/!svn/ver/221/branches/tips_build/cmake/FindWCSLIB1.cmake
+END
+FindMYSQL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindMYSQL.cmake
+END
+FindWCSLIB2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/tips/!svn/ver/221/branches/tips_build/cmake/FindWCSLIB2.cmake
+END
+FindGSL1.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindGSL1.cmake
+END
+FindWCSLIB3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/tips/!svn/ver/221/branches/tips_build/cmake/FindWCSLIB3.cmake
+END
+FindWCSLIB4.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindWCSLIB4.cmake
+END
+FindPkgConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindPkgConfig.cmake
+END
+FindGSL2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindGSL2.cmake
+END
+FindGSL3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindGSL3.cmake
+END
+CheckCSourceRuns.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/CheckCSourceRuns.cmake
+END
+FindSWIG.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindSWIG.cmake
+END
+LibFindMacros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/LibFindMacros.cmake
+END
+CheckCXXSourceCompiles.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/CheckCXXSourceCompiles.cmake
+END
+FindCUDA.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindCUDA.cmake
+END
+FindGlib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindGlib.cmake
+END
+FindCFITSIO1.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindCFITSIO1.cmake
+END
+CheckCXXCompilerFlag.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/CheckCXXCompilerFlag.cmake
+END
+UseSWIG.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/UseSWIG.cmake
+END
+FindHDF5.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/FindHDF5.cmake
+END
+CheckCSourceCompiles.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/CheckCSourceCompiles.cmake
+END

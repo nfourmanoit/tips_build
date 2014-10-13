@@ -1,0 +1,300 @@
+The system is: Darwin - 13.4.0 - i386
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/local/bin/gcc 
+Build flags: -O;-fno-common;-m64
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/2.8.11.2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/local/bin/g++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/2.8.11.2/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3697120216/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec3697120216.dir/build.make CMakeFiles/cmTryCompileExec3697120216.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3697120216.dir/testCCompiler.c.o
+/usr/local/bin/gcc   -O -fno-common -m64      -o CMakeFiles/cmTryCompileExec3697120216.dir/testCCompiler.c.o   -c /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec3697120216
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3697120216.dir/link.txt --verbose=1
+/usr/local/bin/gcc   -O -fno-common -m64    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3697120216.dir/testCCompiler.c.o  -o cmTryCompileExec3697120216  
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2834940300/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec2834940300.dir/build.make CMakeFiles/cmTryCompileExec2834940300.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o
+/usr/local/bin/gcc   -O -fno-common -m64      -o CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/2.8.11.2/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec2834940300
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2834940300.dir/link.txt --verbose=1
+/usr/local/bin/gcc   -O -fno-common -m64    -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec2834940300   
+Utilisation des specs internes.
+COLLECT_GCC=/usr/local/bin/gcc
+COLLECT_LTO_WRAPPER=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/lto-wrapper
+Target: x86_64-apple-darwin13.1.0
+Configuré avec: ../gcc-4.9.0/configure --enable-languages=fortran
+Modèle de thread: posix
+gcc version 4.9.0 (GCC) 
+COMPILER_PATH=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/
+LIBRARY_PATH=/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../../:/usr/lib/
+COLLECT_GCC_OPTIONS='-mmacosx-version-min=10.9.4' '-O' '-fno-common' '-m64' '-v' '-o' 'cmTryCompileExec2834940300' '-mtune=core2'
+ /usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/collect2 -dynamic -arch x86_64 -macosx_version_min 10.9.4 -weak_reference_mismatches non-weak -o cmTryCompileExec2834940300 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../.. -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o -no_compact_unwind -lSystem -lgcc_ext.10.5 -lgcc -lSystem -v
+collect2 version 4.9.0
+/usr/bin/ld -dynamic -arch x86_64 -macosx_version_min 10.9.4 -weak_reference_mismatches non-weak -o cmTryCompileExec2834940300 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../.. -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o -no_compact_unwind -lSystem -lgcc_ext.10.5 -lgcc -lSystem -v
+@(#)PROGRAM:ld  PROJECT:ld64-241.8
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7m armv7em
+@(#)PROGRAM:ld  PROJECT:ld64-241.8
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7m armv7em
+Library search paths:
+	/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0
+	/usr/local/lib
+	/usr/lib
+	/usr/local/lib
+Framework search paths:
+	/Library/Frameworks/
+	/System/Library/Frameworks/
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec2834940300/fast"]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec2834940300.dir/build.make CMakeFiles/cmTryCompileExec2834940300.dir/build]
+  ignore line: [/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/local/bin/gcc   -O -fno-common -m64      -o CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/2.8.11.2/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec2834940300]
+  ignore line: [/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2834940300.dir/link.txt --verbose=1]
+  ignore line: [/usr/local/bin/gcc   -O -fno-common -m64    -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec2834940300   ]
+  ignore line: [Utilisation des specs internes.]
+  ignore line: [COLLECT_GCC=/usr/local/bin/gcc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/lto-wrapper]
+  ignore line: [Target: x86_64-apple-darwin13.1.0]
+  ignore line: [Configuré avec: ../gcc-4.9.0/configure --enable-languages=fortran]
+  ignore line: [Modèle de thread: posix]
+  ignore line: [gcc version 4.9.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/]
+  ignore line: [LIBRARY_PATH=/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../../:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mmacosx-version-min=10.9.4' '-O' '-fno-common' '-m64' '-v' '-o' 'cmTryCompileExec2834940300' '-mtune=core2']
+  link line: [ /usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/collect2 -dynamic -arch x86_64 -macosx_version_min 10.9.4 -weak_reference_mismatches non-weak -o cmTryCompileExec2834940300 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../.. -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o -no_compact_unwind -lSystem -lgcc_ext.10.5 -lgcc -lSystem -v]
+    arg [/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/collect2] ==> ignore
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.9.4] ==> ignore
+    arg [-weak_reference_mismatches] ==> ignore
+    arg [non-weak] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec2834940300] ==> ignore
+    arg [-L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0] ==> dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0]
+    arg [-L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../..] ==> dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../..]
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTryCompileExec2834940300.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-no_compact_unwind] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [-lgcc_ext.10.5] ==> lib [gcc_ext.10.5]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lSystem] ==> lib [System]
+    arg [-v] ==> ignore
+  Library search paths: [;/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0;/usr/local/lib;/usr/lib;/usr/local/lib]
+  Framework search paths: [;/Library/Frameworks/;/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [gcc_ext.10.5]
+  remove lib [gcc]
+  remove lib [System]
+  collapse library dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0] ==> [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0]
+  collapse library dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../..] ==> [/usr/local/lib]
+  collapse library dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0] ==> [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0]
+  collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
+  collapse framework dir [/Library/Frameworks/] ==> [/Library/Frameworks]
+  collapse framework dir [/System/Library/Frameworks/] ==> [/System/Library/Frameworks]
+  implicit libs: []
+  implicit dirs: [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0;/usr/local/lib;/usr/lib]
+  implicit fwks: [/Library/Frameworks;/System/Library/Frameworks]
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec435238484/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec435238484.dir/build.make CMakeFiles/cmTryCompileExec435238484.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec435238484.dir/testCXXCompiler.cxx.o
+/usr/local/bin/g++     -o CMakeFiles/cmTryCompileExec435238484.dir/testCXXCompiler.cxx.o -c /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec435238484
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec435238484.dir/link.txt --verbose=1
+/usr/local/bin/g++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec435238484.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec435238484  
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3672538288/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec3672538288.dir/build.make CMakeFiles/cmTryCompileExec3672538288.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o
+/usr/local/bin/g++     -o CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/2.8.11.2/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec3672538288
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3672538288.dir/link.txt --verbose=1
+/usr/local/bin/g++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec3672538288   
+Utilisation des specs internes.
+COLLECT_GCC=/usr/local/bin/g++
+COLLECT_LTO_WRAPPER=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/lto-wrapper
+Target: x86_64-apple-darwin13.1.0
+Configuré avec: ../gcc-4.9.0/configure --enable-languages=fortran
+Modèle de thread: posix
+gcc version 4.9.0 (GCC) 
+COMPILER_PATH=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/
+LIBRARY_PATH=/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../../:/usr/lib/
+COLLECT_GCC_OPTIONS='-mmacosx-version-min=10.9.4' '-v' '-o' 'cmTryCompileExec3672538288' '-shared-libgcc' '-mtune=core2'
+ /usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/collect2 -dynamic -arch x86_64 -macosx_version_min 10.9.4 -weak_reference_mismatches non-weak -o cmTryCompileExec3672538288 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../.. -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -no_compact_unwind -lSystem -lgcc_ext.10.5 -lgcc -lSystem -v
+collect2 version 4.9.0
+/usr/bin/ld -dynamic -arch x86_64 -macosx_version_min 10.9.4 -weak_reference_mismatches non-weak -o cmTryCompileExec3672538288 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../.. -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -no_compact_unwind -lSystem -lgcc_ext.10.5 -lgcc -lSystem -v
+@(#)PROGRAM:ld  PROJECT:ld64-241.8
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7m armv7em
+@(#)PROGRAM:ld  PROJECT:ld64-241.8
+configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7m armv7em
+Library search paths:
+	/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0
+	/usr/local/lib
+	/usr/lib
+	/usr/local/lib
+Framework search paths:
+	/Library/Frameworks/
+	/System/Library/Frameworks/
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec3672538288/fast"]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec3672538288.dir/build.make CMakeFiles/cmTryCompileExec3672538288.dir/build]
+  ignore line: [/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/local/bin/g++     -o CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/2.8.11.2/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec3672538288]
+  ignore line: [/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3672538288.dir/link.txt --verbose=1]
+  ignore line: [/usr/local/bin/g++       -Wl,-search_paths_first -Wl,-headerpad_max_install_names -v -Wl,-v CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec3672538288   ]
+  ignore line: [Utilisation des specs internes.]
+  ignore line: [COLLECT_GCC=/usr/local/bin/g++]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/lto-wrapper]
+  ignore line: [Target: x86_64-apple-darwin13.1.0]
+  ignore line: [Configuré avec: ../gcc-4.9.0/configure --enable-languages=fortran]
+  ignore line: [Modèle de thread: posix]
+  ignore line: [gcc version 4.9.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/]
+  ignore line: [LIBRARY_PATH=/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/:/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../../:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mmacosx-version-min=10.9.4' '-v' '-o' 'cmTryCompileExec3672538288' '-shared-libgcc' '-mtune=core2']
+  link line: [ /usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/collect2 -dynamic -arch x86_64 -macosx_version_min 10.9.4 -weak_reference_mismatches non-weak -o cmTryCompileExec3672538288 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0 -L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../.. -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -no_compact_unwind -lSystem -lgcc_ext.10.5 -lgcc -lSystem -v]
+    arg [/usr/local/libexec/gcc/x86_64-apple-darwin13.1.0/4.9.0/collect2] ==> ignore
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [x86_64] ==> ignore
+    arg [-macosx_version_min] ==> ignore
+    arg [10.9.4] ==> ignore
+    arg [-weak_reference_mismatches] ==> ignore
+    arg [non-weak] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec3672538288] ==> ignore
+    arg [-L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0] ==> dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0]
+    arg [-L/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../..] ==> dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../..]
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTryCompileExec3672538288.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-no_compact_unwind] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [-lgcc_ext.10.5] ==> lib [gcc_ext.10.5]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lSystem] ==> lib [System]
+    arg [-v] ==> ignore
+  Library search paths: [;/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0;/usr/local/lib;/usr/lib;/usr/local/lib]
+  Framework search paths: [;/Library/Frameworks/;/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [gcc_ext.10.5]
+  remove lib [gcc]
+  remove lib [System]
+  collapse library dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0] ==> [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0]
+  collapse library dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0/../../..] ==> [/usr/local/lib]
+  collapse library dir [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0] ==> [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0]
+  collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
+  collapse framework dir [/Library/Frameworks/] ==> [/Library/Frameworks]
+  collapse framework dir [/System/Library/Frameworks/] ==> [/System/Library/Frameworks]
+  implicit libs: [stdc++]
+  implicit dirs: [/usr/local/lib/gcc/x86_64-apple-darwin13.1.0/4.9.0;/usr/local/lib;/usr/lib]
+  implicit fwks: [/Library/Frameworks;/System/Library/Frameworks]
+
+
+Performing C SOURCE FILE Test COMPILER_SUPPORTS_WARNINGS succeded with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3563857570/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec3563857570.dir/build.make CMakeFiles/cmTryCompileExec3563857570.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3563857570.dir/src.c.o
+/usr/local/bin/gcc   -O -fno-common -m64   -DCOMPILER_SUPPORTS_WARNINGS   -W -o CMakeFiles/cmTryCompileExec3563857570.dir/src.c.o   -c /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec3563857570
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3563857570.dir/link.txt --verbose=1
+/usr/local/bin/gcc   -O -fno-common -m64   -DCOMPILER_SUPPORTS_WARNINGS -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3563857570.dir/src.c.o  -o cmTryCompileExec3563857570  
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test COMPILER_SUPPORTS_WALL succeded with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2859257869/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec2859257869.dir/build.make CMakeFiles/cmTryCompileExec2859257869.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2859257869.dir/src.c.o
+/usr/local/bin/gcc   -O -fno-common -m64   -DCOMPILER_SUPPORTS_WALL   -Wall -o CMakeFiles/cmTryCompileExec2859257869.dir/src.c.o   -c /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2859257869
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2859257869.dir/link.txt --verbose=1
+/usr/local/bin/gcc   -O -fno-common -m64   -DCOMPILER_SUPPORTS_WALL -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec2859257869.dir/src.c.o  -o cmTryCompileExec2859257869  
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test COMPILER_SUPPORTS_WEXTRA succeded with the following output:
+Change Dir: /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3835027067/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec3835027067.dir/build.make CMakeFiles/cmTryCompileExec3835027067.dir/build
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_progress_report /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3835027067.dir/src.c.o
+/usr/local/bin/gcc   -O -fno-common -m64   -DCOMPILER_SUPPORTS_WEXTRA   -Wextra -o CMakeFiles/cmTryCompileExec3835027067.dir/src.c.o   -c /Users/fourmanoit/Desktop/OUSIM/TIPS/branches/tips_build/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec3835027067
+/usr/local/Cellar/cmake/2.8.11.2/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3835027067.dir/link.txt --verbose=1
+/usr/local/bin/gcc   -O -fno-common -m64   -DCOMPILER_SUPPORTS_WEXTRA -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec3835027067.dir/src.c.o  -o cmTryCompileExec3835027067  
+
+Source file was:
+int main() { return 0;}

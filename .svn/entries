@@ -1,0 +1,83 @@
+10
+
+dir
+224
+http://svn.oamp.fr/repos/tips/branches/tips_build
+http://svn.oamp.fr/repos/tips
+
+
+
+2014-10-03T11:58:47.696570Z
+223
+nfourmanoit
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+7289643c-3971-4bd4-a439-b69251d6aacb
+
+build
+dir
+
+test
+dir
+
+cmake
+dir
+
+python
+dir
+
+doc
+dir
+
+src
+dir
+
+bin
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2014-10-13T12:50:45.497127Z
+358c454fa147e69ad08446aaab7959c1
+2014-10-03T10:45:50.105492Z
+221
+nfourmanoit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6131
+

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 52
+lib
+.pydevproject
+.project
+.cproject
+axesim/install
+
+K 13
+svn:mergeinfo
+V 72
+/branches/tips_axesim:51-123
+/branches/tips_codeen:195-209
+/trunk:85-208
+END

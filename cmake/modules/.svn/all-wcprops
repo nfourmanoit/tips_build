@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/tips/!svn/ver/221/branches/tips_build/cmake/modules
+END
+FindCFITSIO.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/modules/FindCFITSIO.cmake
+END
+FindWCSLIB.cmake~
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/tips/!svn/ver/226/branches/tips_build/cmake/modules/FindWCSLIB.cmake~
+END
+FindWCSLIB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/tips/!svn/ver/226/branches/tips_build/cmake/modules/FindWCSLIB.cmake
+END
+CheckCCompilerFlag.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/modules/CheckCCompilerFlag.cmake
+END
+FindGSL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/tips/!svn/ver/225/branches/tips_build/cmake/modules/FindGSL.cmake
+END
+CheckCSourceCompiles.cmake~
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/tips/!svn/ver/226/branches/tips_build/cmake/modules/CheckCSourceCompiles.cmake~
+END
+CheckCSourceCompiles.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/tips/!svn/ver/226/branches/tips_build/cmake/modules/CheckCSourceCompiles.cmake
+END
+FindDoxygen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/tips/!svn/ver/226/branches/tips_build/cmake/modules/FindDoxygen.cmake
+END
